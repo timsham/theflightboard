@@ -1,0 +1,13 @@
+name: theflightboard
+title: theflightboard
+username:
+account: flyingturbo
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6676858
+bundleId: 6121758
+url: https://flyingturbo.shinyapps.io/theflightboard/
+when: 1658460742.86161
+lastSyncTime: 1658460742.86162
+asMultiple: FALSE
+asStatic: FALSE
